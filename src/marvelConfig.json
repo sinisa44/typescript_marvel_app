@@ -1,0 +1,8 @@
+{
+    "MARVEL_URL" :"https://gateway.marvel.com/v1/public",
+    "SERVER_URL" : "localhost:8000",
+    "TEST_URL"    : "https://jsonplaceholder.typicode.com",
+
+    "PUBLIC_KEY" : "5a54d958ef4d2c9c1b9a5c4edd12bea2",
+    "PRIVATE_KEY": "2edd3c65dccec4694d328486e5e0188466c98e7c"
+}
